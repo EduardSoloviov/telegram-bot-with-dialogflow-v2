@@ -15,4 +15,9 @@ other kind of platforms. And before we begin keep some useful links:
 3. [Set up authentication with a service account](https://cloud.google.com/docs/authentication/getting-started)
 4. When you do all of this, open `.env` file and fill it with your data.
 
+### Installation
+  Just copy to bash when you in virtualenv and that's it.
+```
+  pip install dialogflow && pip install python-dotenv && pip install google-cloud &&  pip install flask && pip install requests 
+```
 
