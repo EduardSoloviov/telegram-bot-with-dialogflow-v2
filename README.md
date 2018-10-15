@@ -4,13 +4,10 @@
 
 First of all Dialogflow is an end-to-end, build-once deploy-everywhere development suite for creating conversational interfaces for websites, mobile applications(like messengers) and 
 other kind of platforms. And before we begin keep some useful links:
-  -[Dialogflow Documentation](https://dialogflow.com/docs/getting-started)
-
-  -[Telegram bots api](https://core.telegram.org/bots/api)
-
-  -[Here is where you can place your small bot](https://www.pythonanywhere.com)
-
-  -[And here you will get help with questions about pythonanywhere.com](https://help.pythonanywhere.com/pages)
+  - [Dialogflow Documentation](https://dialogflow.com/docs/getting-started)
+  - [Telegram bots api](https://core.telegram.org/bots/api)
+  - [Here is where you can place your small bot](https://www.pythonanywhere.com)
+  - [And here you will get help with questions about pythonanywhere.com](https://help.pythonanywhere.com/pages)
 
 ### Some preparation
 1. [Create a Cloud Platform project or select if you have it](https://console.cloud.google.com/project)
